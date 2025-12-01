@@ -25,7 +25,7 @@ Tecnologías utilizadas
 
 Cómo ejecutar
 
-  -Clonar el repositorio: git clone https://github.com/tu-usuario/tu-repo.git
+  -Clonar el repositorio: https://github.com/YagoCelma/-Gestor-Productos---Java-Swing.git
   -Importar el proyecto en el IDE.
   -Configurar los datos de conexión a la base de datos.
   -Ejecutar el script SQL para crear las tablas.
